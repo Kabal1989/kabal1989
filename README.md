@@ -19,7 +19,6 @@
  
  <a href="https://discord.gg/QJJvDND5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
           
- <a href="https://www.linkedin.com/in/maur%C3%ADcio-buglia-9a6131b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9N1QzBJBTHi3XbLkNyAZuA%3D%3D" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a> 
+ <a href="https://www.linkedin.com/in/maur%C3%ADcio-buglia-9a6131b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9N1QzBJBTHi3XbLkNyAZuA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
