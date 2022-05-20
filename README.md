@@ -18,3 +18,13 @@
  <a href="https://discord.gg/QJJvDND5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/maur%C3%ADcio-buglia-9a6131b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9N1QzBJBTHi3XbLkNyAZuA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+ <br>
+ 
+ <a href="https://fontmeme.com/robocop-font/"><img src="https://fontmeme.com/permalink/220520/4a98429b8c4a666c486123fd7ca467a0.png" alt="robocop-font" border="0"></a>
+ 
+
+ 
+ <p align="center">
+  <img src="https://github.com/Kabal1989/kabal1989/blob/main/bh187-robocop.gif" alt="animated"/>
+ </p>
